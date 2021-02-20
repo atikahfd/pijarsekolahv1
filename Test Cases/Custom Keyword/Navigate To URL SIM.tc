@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>open the browser and navigate to the url SIM pijar sekolah</description>
+   <name>Navigate To URL SIM</name>
+   <tag>navigateToUrl</tag>
+   <comment></comment>
+   <testCaseGuid>3f273a75-0134-453d-833d-8f7f5ecb2999</testCaseGuid>
+</TestCaseEntity>
